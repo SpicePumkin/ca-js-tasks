@@ -33,4 +33,4 @@ console.log(sentance6)
 
 let sentance7 = helpers[3] + helpers[7] + nouns[8] + helpers[7] + helpers[4] + helpers[7] + helpers[11] + helpers[7] + helpers[12] + helpers[7] + helpers[13] 
 
-console.log(sentance7)
+console.log(sentance7) 
