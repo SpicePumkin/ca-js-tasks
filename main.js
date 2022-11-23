@@ -31,7 +31,7 @@ const status = 'atsikeles';
     case 'atsikeles': plan = 'eit issimaudyt'; break;
     case 'miegantis': plan = 'eit miegot'; break;
     case 'pavarges': plan = 'eit pailseti'; break;
-    default; console.error('Tokia busena neatpazinta');
+    default: console.error('Tokia busena neatpazinta');
     }
     console.log(state, plan)
 
